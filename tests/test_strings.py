@@ -4,3 +4,5 @@ def test_name_len():
     
 def test_type():
     assert type((1, 2)) == tuple
+    
+# Test message
